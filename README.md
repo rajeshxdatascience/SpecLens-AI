@@ -1,15 +1,25 @@
-# smartphone-recommender-system
+📱 Smartphone Recommender System
 
-## Project Overview
-A smartphone recommendation system built using real-world scraped data.
-This repository currently contains the data cleaning and preprocessing pipeline
-for ML-based recommendations.
+This project focuses on building a data-driven smartphone recommender system using real-world scraped smartphone specifications.
 
-## Current Stage
-- Data cleaning and feature preparation
-- Availability, price, and launch date normalization
+The current phase of the project covers data cleaning and preprocessing for machine learning, including price normalization, availability handling, launch date processing, and feature preparation. The dataset is designed with a clear separation between raw data, EDA/ML-ready data, and UI-oriented data to ensure scalability and reproducibility.
 
-## Next Steps
-- Exploratory Data Analysis (EDA)
-- Feature engineering for ML
-- Recommendation logic
+Future stages will include:
+
+Exploratory Data Analysis (EDA)
+
+Feature engineering
+
+Recommendation logic (rule-based + ML)
+
+Explainable AI-driven user interaction
+
+The goal of this project is to create a decision-support system that helps users choose the most suitable smartphone based on their preferences, rather than simply listing multiple options.
+
+🧩 Current Status
+
+✅ Data cleaning and preprocessing
+
+🔄 Exploratory Data Analysis (in progress)
+
+⏳ ML-based recommendation (planned)

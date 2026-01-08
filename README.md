@@ -56,7 +56,8 @@ This structure allows the system to evolve without redesigning core logic.
 - Binary availability flags for Amazon, Flipkart, and official stores  
 - Conversion of specification strings into structured numeric formats  
 - Stable identifier strategy using `model_id`  
-- Version-controlled development with granular, meaningful commits  
+- Version-controlled development with granular, meaningful commits
+- Normalization of display specifications (panel family, refresh rate, HDR level) for ML-ready features  
 
 ### Stage 2: Exploratory Data Analysis (EDA)  
 **Status:** Planned  
